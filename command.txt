@@ -1,2 +1,3 @@
 TEST123|yuhu2
 15|/rect xauusd 123 456
+16|/rect audcad 111 222
