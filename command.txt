@@ -1,1 +1,2 @@
 TEST123|yuhu2
+15|/rect xauusd 123 456
