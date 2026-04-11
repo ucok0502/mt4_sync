@@ -1,6 +1,1 @@
-/test
-/alert XAUUSD 2350
-/hello 123
-/yuhuu
-
-
+\\tes
