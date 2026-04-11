@@ -5,3 +5,4 @@ TEST123|yuhu2
 18|/rect xauusd 222 333
 19|/rect waduhh
 20|//oke
+21|/lets try lahi
