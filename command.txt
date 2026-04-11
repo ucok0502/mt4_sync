@@ -3,3 +3,4 @@ TEST123|yuhu2
 16|/rect audcad 111 222
 17|/rect yuhuuuu berhasil
 18|/rect xauusd 222 333
+19|/rect waduhh
