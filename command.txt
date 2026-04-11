@@ -4,3 +4,4 @@ TEST123|yuhu2
 17|/rect yuhuuuu berhasil
 18|/rect xauusd 222 333
 19|/rect waduhh
+20|//oke
