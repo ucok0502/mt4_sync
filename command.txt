@@ -2,3 +2,4 @@ TEST123|yuhu2
 15|/rect xauusd 123 456
 16|/rect audcad 111 222
 17|/rect yuhuuuu berhasil
+18|/rect xauusd 222 333
