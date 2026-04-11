@@ -10,5 +10,3 @@ IF %ERRORLEVEL% EQU 0 (
 "C:\Program Files\Git\cmd\git.exe" commit -m "auto update"
 "C:\Program Files\Git\cmd\git.exe" push
 
-
-cd /d C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\Common\Files\mt4-sync
